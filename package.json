@@ -1,15 +1,12 @@
 {
   "name": "bob-menu-bot",
   "version": "1.0.0",
-  "description": "Bot do Discord - Bob Menu",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
   },
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
   "dependencies": {
-    "discord.js": "^14.25.1"
+    "discord.js": "^14.15.2",
+    "dotenv": "^16.4.5"
   }
 }
