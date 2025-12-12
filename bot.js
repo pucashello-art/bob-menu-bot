@@ -24,11 +24,12 @@ client.on('messageCreate', (message) => {
 :package: **COMANDOS DO BOB MENU**
 - !ativar ? Ativar o menu  
 - !chave ? Instalar sua chave  
-- !suporte ? Suporte técnico  
+- !suporte ? Suporte tÃ©cnico  
 - !conferir ? Conferir menu  
 - !status ? Ver status do bot
         `);
     }
 });
 
-client.login("MTQ0ODgyMTg3MTUwMzIxMjYyNg.G0Kjxk.kOm7o5qsC1UufV3l57cdaplQgyX0ClQEUdwYBI");
+
+
