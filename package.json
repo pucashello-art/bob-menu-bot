@@ -1,19 +1,15 @@
-{
-  "name": "bob-menu",
+]{
+  "name": "bob-menu-bot",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Bot do Discord - Bob Menu",
+  "main": "bot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node bot.js"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
     "discord.js": "^14.25.1"
   }
-}
-"scripts": {
-  "start": "node bot.js"
 }
